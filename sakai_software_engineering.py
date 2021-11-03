@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 
+# replace path with the path to your web driver
 driver = webdriver.Chrome('B:\\Downloads\\Compressed\\Web Drivers\\chromedriver_win32\\chromedriver.exe')
 driver.get('https://sakai.ug.edu.gh/')
 
