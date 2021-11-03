@@ -15,4 +15,7 @@
 - Save as `.bat` anywhere and execute by double clicking on it.
 - To execute with the [run dialog][run dialog blog], save the `.bat` file specifically in the directory: `C:/users/username/`
 
+## Demo
+<img src="./demo/scripts_demo.gif" width=800>
+
 [run dialog blog]: https://www.makeuseof.com/tag/everything-you-must-know-about-the-run-dialog-most-useful-commands/#:~:text=The%20Run%20dialog%20is%20a,is%20used%20to%20launch%20it.
